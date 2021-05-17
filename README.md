@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayanyu
-- 👀 I’m interested in reading and health research
+- 👀 I’m interested in coding, reading and healthcare research
 - 🌱 I’m currently learning fullstack javascript
 - 📫 How to reach me ayanhaibeh@gmail.com
 
